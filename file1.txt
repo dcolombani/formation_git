@@ -1,0 +1,4 @@
+fic1.txt
+Sun Oct 29 15:15:35 2023
+modif
+version anglaise
